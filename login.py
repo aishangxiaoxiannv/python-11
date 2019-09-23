@@ -11,3 +11,8 @@ print('开发新的功能')
 
 print('支付模块上线')
 
+pay-money = 10000
+
+
+end
+
